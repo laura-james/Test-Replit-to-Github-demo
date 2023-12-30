@@ -1,5 +1,5 @@
 """
-Another docstring to get it past pylint
+Another docstring to get it past pylint - and new line at the end
 """
 def main():
     """
